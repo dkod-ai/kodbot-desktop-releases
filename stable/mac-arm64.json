@@ -1,0 +1,12 @@
+{
+  "version": "0.94.0",
+  "commit": "2edf7df708fab4c24c285b77d43a6a411f956734",
+  "dmg": {
+    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.94.0/KodBot-0.94.0-arm64.dmg",
+    "sha512": "95902729022309a200c18fac120039f7705c9e9abd29601d30e2cff77a78d931817d9c045275412bfcad133978b18dc9ec84a96eb07164da2d2e918f8ecffb36"
+  },
+  "zip": {
+    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.94.0/KodBot-0.94.0-arm64.zip",
+    "sha512": "4170a34b2a31ca7f4ae561c422c7297e04fc012ff89a9aa0bfebcdc09f348e3a40a8e415f447ed807c2a29ea27a9c0d4ac9c895c81666b762ccbe5e59034dcbe"
+  }
+}

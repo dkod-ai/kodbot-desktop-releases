@@ -1,0 +1,12 @@
+{
+  "version": "0.97.1-nightly.202611160954",
+  "commit": "30fdc596d672fa50729640ba9cf2aefd6baa17a5",
+  "dmg": {
+    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.97.1-nightly.202611160954/KodBot-0.97.1-nightly.202611160954-x64.dmg",
+    "sha512": "e829ebd648e98e75158f7d763493d7c1fb39312e96391f3ee06d27b8549eae3d805cce20b64d7a8ffdcb1b345b88135653afed6c2c30e01f4da9b2e4e7da71c1"
+  },
+  "zip": {
+    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.97.1-nightly.202611160954/KodBot-0.97.1-nightly.202611160954-x64.zip",
+    "sha512": "478ca4e863b1faaa546ed08178ec7ccab4affa942ef7e4ccd584af545d86849f924be285f1d2a4643c4aca08943a7e79e6b53b7799752902aa2b4c433839f204"
+  }
+}

@@ -1,12 +1,12 @@
 {
-  "version": "0.113.4-nightly.202611180731",
-  "commit": "cdbfae5cde7327b2e77241fc81f258ca6becb128",
+  "version": "0.114.1-nightly.202611180835",
+  "commit": "1df22cf16935be0bcbc53559067e224148805798",
   "appimage": {
-    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.113.4-nightly.202611180731/KodBot-0.113.4-nightly.202611180731-arm64.AppImage",
-    "sha512": "47a9e77d73283589adb6eea8b75cfbbeb7f2f300d84b896ecbed52c49117c9bdff773b3f67682be685dbf01bdab2f6ff124120238771f00aefdd0bc735c95c0a"
+    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.114.1-nightly.202611180835/KodBot-0.114.1-nightly.202611180835-arm64.AppImage",
+    "sha512": "a4728432520b5b7539bd16d005b6ba0bf145b42b8c920d4eee86506fa1112a7eb0df9818b95e1f27c68b1b9e68231a0dad3c8b2cf3db4a1b41e32a1bd1bbf473"
   },
   "deb": {
-    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.113.4-nightly.202611180731/KodBot-0.113.4-nightly.202611180731-arm64.deb",
-    "sha512": "2836f52c053b3a9efc24f4f7742b9d9b58925e8934ac621c77483ebb77e54d643cab5e8bb17655dfd673a260c6837d9d6b530124cd9e28e1b0c04dad30182650"
+    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.114.1-nightly.202611180835/KodBot-0.114.1-nightly.202611180835-arm64.deb",
+    "sha512": "a49e2344d458c038b8eb88faca4e5aec4e8c11546315d05d631b1aab330a83f2cf0bf3a2cda9b1e78fd13122dba30e20cbc19a9287d72abf1bca5e554946a5cd"
   }
 }

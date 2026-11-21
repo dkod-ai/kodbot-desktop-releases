@@ -1,12 +1,12 @@
 {
-  "version": "0.159.2",
-  "commit": "aefaf10b04fc591d949f2c016a8629ee724ef98e",
+  "version": "0.162.0",
+  "commit": "060fcaaca0deacf8a214bf04bac4dd083efafa50",
   "dmg": {
-    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.159.2/KodBot-0.159.2-arm64.dmg",
-    "sha512": "bc62acee99c29140c3b9265d8f0b0b1413159c5fef39c82abaf8acc52792bba5c7d117844856291675f24c4ae1a5132961a2b921a1be819e73c869c0955e2296"
+    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.162.0/KodBot-0.162.0-arm64.dmg",
+    "sha512": "dc353e7a603492a14c4209fa2a643e2e5136584469126f168783520a0f5c94ce8799d03cb120f35bec281b78f88de068282cf6bec6839a29db6b39123d0ca844"
   },
   "zip": {
-    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.159.2/KodBot-0.159.2-arm64.zip",
-    "sha512": "d800c0521290a15409cb423786f9ea62d7f4321b42e8981c8624d4875ca12c3e31a6af73a50846d29f0f9b39c1deaedef3440b7051ba88c98965109adf41385d"
+    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.162.0/KodBot-0.162.0-arm64.zip",
+    "sha512": "97c231e173bce7534d8b8846deb7ac516eacc2d83d8af65691bad3d06b67c6879a285e5ad9853b4ad98e33a77640b7568a72efd4271459e6412b9ab9043cbdd4"
   }
 }

@@ -1,12 +1,12 @@
 {
-  "version": "0.235.2-nightly.202611261047",
-  "commit": "0c06e43b6b44b335951e2d436524544647cd7e0f",
+  "version": "0.236.1-nightly.202611261104",
+  "commit": "efc69b424bc91ed868f761279580142e73f4f810",
   "dmg": {
-    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.235.2-nightly.202611261047/KodBot-0.235.2-nightly.202611261047-x64.dmg",
-    "sha512": "b09fef0f8d17a6fbaaa7d75b5a013e94076bc69ed6f607d5354db9589331dab1cd7a04ff5546ee398bc38e0a1358f22980ecabb95c6f95d7e77824cee624c1d6"
+    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.236.1-nightly.202611261104/KodBot-0.236.1-nightly.202611261104-x64.dmg",
+    "sha512": "b45ef2443863fc89484c8839535160ad89e3f6c7604a4c4ebd79386ac09132db9d3fc9a64e2c5d9cb8b683a8cda956e2e614ec870d6ac1866c4139ef6aa88704"
   },
   "zip": {
-    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.235.2-nightly.202611261047/KodBot-0.235.2-nightly.202611261047-x64.zip",
-    "sha512": "8b757c4a2b4df0a7eb39b29476989c82c9eef2af1f8bce1e2d53406b0b769b8a5a1c60d9c3a53fe581135a120d4d87d497a11749e3141a60f3f7c2e2ac0fc62e"
+    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.236.1-nightly.202611261104/KodBot-0.236.1-nightly.202611261104-x64.zip",
+    "sha512": "ff6dee786eddb9afe0625fc488cbb9c4f4c75e3ac70d659881ad5c06e0298e48297b5390949d868bccc030fb56187777ae55720f555431dbaf289643a7223f65"
   }
 }

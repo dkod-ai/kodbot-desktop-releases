@@ -1,12 +1,12 @@
 {
-  "version": "0.270.0",
-  "commit": "88e8d2797d0a9b8b0e93935d0f4723b1010042dc",
+  "version": "0.271.0",
+  "commit": "f0d7429e255e58d2588c3d5fb888d1167f8263ca",
   "appimage": {
-    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.270.0/KodBot-0.270.0-arm64.AppImage",
-    "sha512": "8c3dc733d271e0f766ec708f31b5dcc0a02cb0f17c36c80fa238aa46b5b0a377ee115d3ff8e884ded797b9195efdc32cdabb9dfbd3deba2aa3edcdd2d38628bb"
+    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.271.0/KodBot-0.271.0-arm64.AppImage",
+    "sha512": "336da8fa3f3fe2631b175e4cdd6fa4fb0135ccd72935891f18d03ef9c304dcd65c5885f82a3e822f587697bee7d1ed911c86c7f7aece68eb16fd064834980deb"
   },
   "deb": {
-    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.270.0/KodBot-0.270.0-arm64.deb",
-    "sha512": "0b13b72b4d32bdcb461d5435f9d0fc1de8b458559f013f34d6cc6456de004b7ad5784293f4d2157f67c22381079abb638bab2ddeaa6dba396a2ee0a2a4b385c0"
+    "url": "https://github.com/dkod-ai/kodbot-desktop-releases/releases/download/v0.271.0/KodBot-0.271.0-arm64.deb",
+    "sha512": "b294f770037b90ebb016dc36c2d5131e58a3e6099944222a4224e5ff57b6e3ace6fa8683f2f21fd18c35fbce35121b70b596ca27bff3aef6ec66c9be84e75c49"
   }
 }
